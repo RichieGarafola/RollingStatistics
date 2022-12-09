@@ -21,6 +21,10 @@ yfinance
 
 ---
 
+**File:** [RollingStatistics](rollingStatistics.ipynb)
+
+---
+
 ## Step 2: Read in the Data and define the function for z-score
 
 Use yfinance to get stock data – in this case, NFLX is used. 
